@@ -1,0 +1,1 @@
+minerd.exe -a quark --url stratum+tcp://qrk.coinmine.pl:6010 -u palmdetroit.1 -p 1

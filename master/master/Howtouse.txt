@@ -1,0 +1,12 @@
+Easy Pool mining:
+
+1) Start_miner.bat to make sure you have right miner for your cpu!
+
+2) If it runs then you simply need to adjust the .bat files to your pool and credentials.
+
+3) Profit!
+
+Example:
+minerd.exe -a quark --url stratum+tcp://qrk.coinmine.pl:6010 -u palmdetroit.1 -p 1
+
+Tips appreciated! QV41kKfw9L6qNr43SNRFci9HzgsxeJf5yh
